@@ -36,7 +36,7 @@ function App() {
     <>
     <div className="container">
       <div classname="card">
-        <p>there is the question??</p>
+        <p>Do you love me??</p>
         <button onClick={handleYesClick}>
           Yes
         </button>
